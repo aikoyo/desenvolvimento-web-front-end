@@ -1,0 +1,11 @@
+
+h1{
+    display: flex;
+    width: 900px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    background-color: peru;
+    border-radius: 20px;
+}
